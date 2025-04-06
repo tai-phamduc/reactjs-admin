@@ -1,9 +1,10 @@
 import React from 'react'
+import TopNavbar from '../components/TopNavBar'
 
 function Dashboard() {
   return (
     <div>
-      Dashboard
+      <TopNavbar />
     </div>
   )
 }
