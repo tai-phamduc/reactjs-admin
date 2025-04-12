@@ -36,7 +36,7 @@
       "value": "$359",
       "date": "10/07/2023",
       "status": "New",
-      "avatar": ""
+      "avatar": "https://avatar.iran.liara.run/public"
     },
     {
       "id": 2,
@@ -45,7 +45,7 @@
       "value": "$747",
       "date": "24/07/2023",
       "status": "New",
-      "avatar": ""
+      "avatar": "https://avatar.iran.liara.run/public"
     },
     {
       "id": 3,
@@ -54,7 +54,7 @@
       "value": "$564",
       "date": "08/08/2023",
       "status": "In-progress",
-      "avatar": ""
+      "avatar": "https://avatar.iran.liara.run/public"
     },
     {
       "id": 4,
@@ -63,7 +63,7 @@
       "value": "$541",
       "date": "31/08/2023",
       "status": "In-progress",
-      "avatar": ""
+      "avatar": "https://avatar.iran.liara.run/public"
     },
     {
       "id": 5,
@@ -72,7 +72,7 @@
       "value": "$769",
       "date": "01/05/2023",
       "status": "Completed",
-      "avatar": ""
+      "avatar": "https://avatar.iran.liara.run/public"
     },
     {
       "id": 6,
@@ -81,25 +81,7 @@
       "value": "$922",
       "date": "10/06/2023",
       "status": "Completed",
-      "avatar": ""
-    },
-    {
-      "id": "4411",
-      "name": "Pham Duc Tai",
-      "company": "Youtube",
-      "value": "300",
-      "date": "12/12/2012",
-      "status": "In-progress",
       "avatar": "https://avatar.iran.liara.run/public"
-    },
-    {
-      "name": "Peter Scott",
-      "company": "Youtube",
-      "value": "3001",
-      "date": "12/12/2025",
-      "status": "In-progress",
-      "avatar": "https://avatar.iran.liara.run/public",
-      "id": "3aaa"
     }
   ]
 }
